@@ -1,0 +1,16 @@
+{
+	"author": [
+		"Unknown"
+	],
+	"name": "BanSync",
+	"disabled": false,
+	"short": "Synchronize bans",
+	"description": "Ban a user across all servers where you can, or synchronize bans between multiple servers",
+	"tags": [
+		"ban",
+		"sync"
+	],
+	"hidden": false,
+	"min_bot_version": "3.4.0",
+	"end_user_data_statement": "This cog does not persistently store data or metadata about users. Discord IDs of users may occasionally be logged to file as part of exception logging."
+}

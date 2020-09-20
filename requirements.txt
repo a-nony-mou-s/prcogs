@@ -1,0 +1,6 @@
+attrs
+pytz
+python-dateutil
+red-discordbot
+dice
+feedparser
